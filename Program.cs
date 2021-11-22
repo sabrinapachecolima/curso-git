@@ -8,8 +8,8 @@ namespace ConsoleApp1
         {
 
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Bom dia");
             Console.WriteLine("Tenha um bom dia");
+            Console.WriteLine("Tudo bem?");
 
 
 
